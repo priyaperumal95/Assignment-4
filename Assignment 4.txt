@@ -1,0 +1,45 @@
+1.Characteristics of Big Data:
+
+   1.Volume:
+           The quality of data that is generated is very important in this context. It is the size of the data determines the value and potential of the data. Ten name 'Big Data' itself contains a term which is related to size and ence the characteristics.
+
+   2.Variety:
+           The next aspect of big data is its variety. the type and nature of the data. this helps people who analyze it to effectively use the resulting insight.
+
+   3.Velocity:
+           In this context, the speed at which the data is generated and processed to meet the demands and challenges that lie in the path of growth and development.
+
+   4.Variability:
+           This refers to the inconsistency which can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
+
+   5.Veracity:
+           The quality of captured data can vary greatly, affecting accurate anaysis.
+
+
+
+2.Possible solutions to handle the big data:
+
+    The scale up and scale out are the solutions to handle the big data.
+   
+    Scale up :
+  
+         Increase the  configuration of a system. Like disk capacity, RAM, data transfer speed. But it is complex, costly and time consuming process.
+
+    Scale out:
+
+         Use multiple commodity machines and distribute the load of storage/processing among them. Economical and quick to implement as it focuses on distribution of load     
+
+
+
+
+3. Difference between scale up and scale down:
+
+       The terms "scale up" and "scale out" are commonly used in discussing different strategies for adding functionality to hardware systems. They are fundamentally different ways of addressing the need for more processor capacity, memory and other resources.
+
+       Scaling up generally refers to purchasing and installing a more capable central control or piece of hardware. For example, when a project’s input/output demands start to push against the limits of an individual server, a scaling up approach would be to buy a more capable server with more processing capacity and RAM.
+
+       By contrast, scaling out means linking together other lower-performance machines to collectively do the work of a much more advanced one. With these types of distributed setups, it's easy to handle a larger workload by running data through different system trajectories.
+
+       There are a variety of benefits and disadvantages to each approach. Scaling up can be expensive, and ultimately, some experts argue that it's not viable because of the limits to individual hardware pieces on the market. However, it does make it easier to control a system, and to provide for certain data quality issues.
+
+       One of the main reasons for the popularity of scaling out is that this approach is what's behind a lot of the big data initiatives done today with tools like Apache Hadoop. Here, central data handling software systems administrate huge clusters of hardware pieces, for systems that are often very versatile and capable. However, experts are now beginning to debate the use of scaling up and scaling out, looking at which kind of approach is best for any given project.
